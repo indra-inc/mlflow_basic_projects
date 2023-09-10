@@ -1,0 +1,15 @@
+artifact_uri: file:///media/indra-inc/ML_Doc/mflow_projects/basic_model_tracking_1/mlruns/484267182419968048/df3c15ae7b504e8797a1b244dfd82bde/artifacts
+end_time: 1694383061626
+entry_point_name: ''
+experiment_id: '484267182419968048'
+lifecycle_stage: active
+run_id: df3c15ae7b504e8797a1b244dfd82bde
+run_name: dazzling-carp-446
+run_uuid: df3c15ae7b504e8797a1b244dfd82bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694383058688
+status: 3
+tags: []
+user_id: indra-inc

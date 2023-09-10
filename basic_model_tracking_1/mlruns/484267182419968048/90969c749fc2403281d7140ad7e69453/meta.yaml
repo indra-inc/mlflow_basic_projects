@@ -1,0 +1,15 @@
+artifact_uri: file:///media/indra-inc/ML_Doc/mflow_projects/basic_model_tracking_1/mlruns/484267182419968048/90969c749fc2403281d7140ad7e69453/artifacts
+end_time: 1694382922994
+entry_point_name: ''
+experiment_id: '484267182419968048'
+lifecycle_stage: active
+run_id: 90969c749fc2403281d7140ad7e69453
+run_name: clumsy-dove-512
+run_uuid: 90969c749fc2403281d7140ad7e69453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694382918421
+status: 3
+tags: []
+user_id: indra-inc
